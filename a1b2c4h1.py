@@ -13,6 +13,7 @@ for i in data:
         temp=i
         
 answer=''.join(final)
+
 if len(answer)>len(data):
     print(data)
 else:
