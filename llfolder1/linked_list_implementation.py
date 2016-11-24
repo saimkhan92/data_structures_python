@@ -48,15 +48,15 @@ class linked_list(node):
                     
 
 
-lnk=linked_list()
+#lnk=linked_list()
 
-lnk.add(10)
-lnk.add(20)
-lnk.add(30)
-lnk.add(25)
-lnk.display()
-lnk.delete(30)
-lnk.display()
+#lnk.add(10)
+#lnk.add(20)
+#lnk.add(30)
+#lnk.add(25)
+#lnk.display()
+#lnk.delete(30)
+#lnk.display()
 
         
             
